@@ -12,7 +12,7 @@ In this competition problem, we will explore the challenges of setting up a scan
 
 &nbsp;\
 This year all the groups had to create an algorithm able to **maximise the efficiency of book scanning process in multiple libraries**.\
-For more informations, on I/O files for example, please refer to the [subject]().\
+For more informations, on I/O files for example, please refer to the [subject](https://github.com/Harmos274/GoogleHashCode2020/blob/master/hashcode_2020_online_qualification_round.pdf).\
 <br>
 
 ### Installation
