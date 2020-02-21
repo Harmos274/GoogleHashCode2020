@@ -15,6 +15,7 @@ This year all the groups had to create an algorithm able to **maximise the effic
 For more informations, on I/O files for example, please refer to the [subject]().
 
 <br>
+
 ### Installation
 
 Since the script is written in [Python](https://www.python.org/), you'll need Python 3 to run it.
