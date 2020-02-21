@@ -2,7 +2,7 @@
 
 ![(https://codingcompetitions.withgoogle.com/hashcode)](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-**Hash Code** is a team programming competition, organized by Google, for students and professionals around the world.
+**Hash Code** is a team programming competition, organized by Google, for students and professionals around the world.\
 Link : https://codingcompetitions.withgoogle.com/hashcode
 
 ### Subject
