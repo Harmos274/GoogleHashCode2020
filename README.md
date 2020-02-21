@@ -10,7 +10,7 @@ Link : https://codingcompetitions.withgoogle.com/hashcode
 \
 In this competition problem, we will explore the challenges of setting up a scanning process for millions of books stored in libraries around the world and having them scanned at a scanning facility.
 
-This year all the groups had to create an algorithm able to **maximise the efficiency of book scanning process in multiple libraries**.\
+This year, all the teams had to create an algorithm able to **maximise the efficiency of book scanning process in multiple libraries**.\
 For more informations, on I/O files for example, please refer to the [subject](https://github.com/Harmos274/GoogleHashCode2020/blob/master/hashcode_2020_online_qualification_round.pdf).\
 <br>
 
