@@ -10,23 +10,23 @@ Link : https://codingcompetitions.withgoogle.com/hashcode
 \
 In this competition problem, we will explore the challenges of setting up a scanning process for millions of books stored in libraries around the world and having them scanned at a scanning facility.
 
-This year, the teams had to create an algorithm to **maximise the efficiency of book scanning process in multiple libraries**.\
-For more informations, on I/O files for example, please refer to the [subject](https://github.com/Harmos274/GoogleHashCode2020/blob/master/hashcode_2020_online_qualification_round.pdf).\
+This year, the teams had to create an algorithm to **maximise the efficiency of the process of scanning books in multiple libraries**.\
+For more information (e.g.: sample inputs / expected outputs) please refer to the [subject](https://github.com/Harmos274/GoogleHashCode2020/blob/master/hashcode_2020_online_qualification_round.pdf).\
 <br>
 
-### Installation
+### Usage
 
-Since the script is written in [Python](https://www.python.org/), you'll need Python 3 to run it.
+You'll need [Python 3](https://www.python.org/) to run the script.
 
 ```sh
-$ ./algoSort.py [inputFile]
+$ python3 ./algoSort.py inputFile.txt
 $ cat outputFile.txt
 ```
 <br>
 
 ### Scoreboard (World)
 
-All the **10 724** teams were amazing and it was an honor for us to be a part of this event.
+The **10 724** teams that competed were amazing and it was an honor for us to partake in this event.
 | Place | Team | Score |
 |-------| ------ | ------ |
 |1| ✷code | 27,203,691 |
