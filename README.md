@@ -8,7 +8,7 @@ Link : https://codingcompetitions.withgoogle.com/hashcode
 ### Subject
 > Google Books is a project that embraces the value books bring to our daily lives. It aspires to bring the world's books online and make them accessible to everyone. In the last 15 years, Google Books has collected digital copies of 40 million books in more than 400 languages, partly by scanning books from libraries and publishers all around the world.
 \
-In this competition problem, we will explore the challenges of setting up a scanning process for millions of books stored in libraries around the world and having them scanned at a scanning facility.
+In this competition problem, we will explore the challenges of setting up a scanning process for millions of books stored in libraries around the world and having them scanned at a scanning facility.\
 &nbsp;\
 This year all the groups had to create an algorithm able to **maximise the efficiency of book scanning process in multiple libraries**.\
 For more informations, on I/O files for example, please refer to the [subject](https://github.com/Harmos274/GoogleHashCode2020/blob/master/hashcode_2020_online_qualification_round.pdf).\
