@@ -2,7 +2,7 @@
 
 ![(https://codingcompetitions.withgoogle.com/hashcode)](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-**Hash Code** is a team programming competition, organized by Google, for students and professionals around the world.
+**Hash Code** is a team programming competition, organized by Google, for students and professionals around the world.\
 Link : https://codingcompetitions.withgoogle.com/hashcode
 
 ### Subject
@@ -10,9 +10,10 @@ Link : https://codingcompetitions.withgoogle.com/hashcode
 \
 In this competition problem, we will explore the challenges of setting up a scanning process for millions of books stored in libraries around the world and having them scanned at a scanning facility.
 
-&nbsp;
-This year all the groups had to create an algorithm able to **maximise the efficiency of book scanning process in multiple libraries**.
-For more informations, on I/O files for example, please refer to the [subject]().
+&nbsp;\
+This year all the groups had to create an algorithm able to **maximise the efficiency of book scanning process in multiple libraries**.\
+For more informations, on I/O files for example, please refer to the [subject]().\
+<br>
 
 ### Installation
 
@@ -22,6 +23,7 @@ Since the script is written in [Python](https://www.python.org/), you'll need Py
 $ ./algoSort.py [inputFile]
 $ cat outputFile.txt
 ```
+<br>
 
 ### Scoreboard (World)
 
